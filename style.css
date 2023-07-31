@@ -1,0 +1,146 @@
+*,html,body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;;
+}
+:root{
+    --primary-white: #FFFFFF;
+    --primary-blue: #24306E
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    width: 100%;
+}
+
+#home{
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url("./assets/foto itb hehe.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+header{
+    width: 100%;
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar{
+    padding: 25px;
+}
+
+.navbar a{
+    position: relative;
+    margin: 0 15px ;
+    text-decoration: none;
+    color: var(--primary-white);
+    font-size: 1em;
+}
+.navbar a::after{
+    position: absolute;
+    top: 20px;
+    left: 0;
+    width: 100%;
+    content: '';
+    height: 1px;
+    background: var(--primary-white);
+    border-radius: 5px;
+    transform: scale(0);
+    transform-origin: right;
+    transition: transform 0.5s;
+}
+.navbar a:hover::after{
+    transform-origin: left;
+    transform: scale(1);
+}
+.logo img{
+    position: absolute;
+    top: 0;
+    left: 33px;
+    width: 130px;
+}
+
+.comps-1{
+    color: var(--primary-white);
+    padding: 80px;
+}
+
+.comps-1 h1{
+    font-weight: 600;
+}
+
+.btn-blue{
+    width: fit-content;
+    padding: 10px 20px;
+    background-color: var(--primary-blue);
+    color: var(--primary-white);
+    border-radius: 30px;
+    font-size: 0.8em;
+    cursor: pointer;
+}
+.btn-white{
+    width: fit-content;
+    padding: 10px 20px;
+    color: var(--primary-blue);
+    background-color: var(--primary-white);
+    border-radius: 30px;
+    font-size: 0.8em;
+    cursor: pointer;
+}
+.content{
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+.comps-2{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    text-align: center;
+    align-items: center;
+    justify-content:  center;
+}
+.content img{
+    width: 750px;
+    border-radius: 40px;
+}
+
+#about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--primary-blue);
+}
+
+.layer{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px;
+    color: var(--primary-white);
+}
+
+.layer.a{
+    border-bottom: 1px solid var(--primary-white);
+}
+
+.layer.a .btn-white{
+    margin-right: 350px;
+}
+
+.layer.b{
+    display: flex;
+    justify-content: center;
+}
+.layer.b img{
+    width: 170px;
+}
