@@ -38,7 +38,7 @@ header{
     background-position: center;
     background-attachment: fixed;
 }
-#list-beasiswa{
+#title-list-beasiswa{
     color: var(--primary-blue);
     display: flex;
     position: absolute;
@@ -54,9 +54,19 @@ header{
 }
 
 .box{
-    padding: 80px;
+    padding: 30px;
+    display: flex;
+    background-color: #E2EBEB;
     line-height: normal;
     font-style: normal;
+    justify-content: space-around;
+}
+.box text{
+    flex-direction: column;
+    width: 300px;
+    text-align: center;
+    align-items: center;
+    justify-content:  center;
 }
 .box h3{
     width: 486px;
@@ -90,7 +100,7 @@ header{
     height: 220px;
 }
 
-#footer img{
+#footer{
     display: flex;
     flex-direction: column;
     align-items: center;
