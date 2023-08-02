@@ -15,17 +15,6 @@ body{
     width: auto;
     height: auto;
 }
-
-#welcome{
-    display: flex;
-    align-items: center;
-    min-height: 220px;
-    background: var(--primary-blue);
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    
-}
 header{
     color: var(--primary-white);
     display: flex;
@@ -38,6 +27,16 @@ header{
     font-weight: 700;
     line-height: 28.645px;
     letter-spacing: -0.64px;
+}
+
+#welcome{
+    display: flex;
+    align-items: center;
+    min-height: 220px;
+    background: var(--primary-blue);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 #list-beasiswa{
     color: var(--primary-blue);
@@ -54,6 +53,36 @@ header{
     letter-spacing: normal;
 }
 
+.box{
+    padding: 80px;
+    line-height: normal;
+    font-style: normal;
+}
+.box h3{
+    width: 486px;
+    height: 76px;
+    flex-shrink: 0;
+    color: #404040;
+    font-size: 47.773px;
+    font-weight: 500;
+}
+.box p{
+    width: 416px;
+    height: 52px;
+    flex-shrink: 0;
+    color: #616161;
+    font-size: 24px;
+    font-weight: 400;
+}
+.btn-blue{
+    width: fit-content;
+    padding: 10px 20px;
+    background-color: var(--primary-blue);
+    color: var(--primary-white);
+    border-radius: 30px;
+    font-size: 0.8em;
+    cursor: pointer;
+}
 .logo img{
     position: absolute;
     top: 0;
@@ -61,7 +90,7 @@ header{
     height: 220px;
 }
 
-#foot img{
+#footer img{
     display: flex;
     flex-direction: column;
     align-items: center;
