@@ -7,6 +7,7 @@
 :root{
     --primary-white: #FFFFFF;
     --primary-blue: #24306E;
+    --secondary-blue: #E2EBEB;
     --primary-gray: #404040;
     --secondary-grey : #616161;
 }
@@ -22,7 +23,6 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-shrink: 0;
     font-size: 1.2em;
     font-weight: 700;
     line-height: 28.645px;
@@ -45,23 +45,19 @@ header{
 #title-list-beasiswa{
     padding: 30px;
     color: var(--primary-gray);
-    flex-shrink: 0;
     font-size: 1.5em;
-    line-height: normal;
-    letter-spacing: normal;
 }
 
 .box{
     margin: 20px 50px;
     padding: 30px;
     display: flex;
-    background-color: #E2EBEB;
+    background-color: var(--secondary-blue);
 
 }
 .box .text{
     display: flex;
     justify-content: center;
-    height: initial;
     padding: 0 20px;
     display: flex;
     flex-direction: column;
@@ -91,13 +87,18 @@ header{
     cursor: pointer;
 }
 
-/* #footer{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url("./assets/foto itb hehe.jpg") no-repeat;;
-    background-size: cover;
-    background-position: bottom;
-    background-attachment: fixed;
-} */
+
+#footer{
+    margin: 0px;
+    padding: 0px;
+}
+#footer img{
+    display: block; 
+    margin: 0;
+    padding: 0;
+    filter: brightness(50%);
+    object-fit: cover;
+    width: 100%;
+    height: 150px;
+}
 
