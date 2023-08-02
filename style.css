@@ -12,10 +12,11 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    width: 100%;
+    width: auto;
+    height: auto;
 }
 
-#list{
+#welcome{
     display: flex;
     align-items: center;
     min-height: 220px;
@@ -30,7 +31,6 @@ header{
     display: flex;
     position: absolute;
     left: 292px;
-    height: 42px;
     flex-direction: column;
     justify-content: center;
     flex-shrink: 0;
@@ -38,6 +38,20 @@ header{
     font-weight: 700;
     line-height: 28.645px;
     letter-spacing: -0.64px;
+}
+#list-beasiswa{
+    color: var(--primary-blue);
+    display: flex;
+    position: absolute;
+    left: 56px;
+    top: 266px;
+    color: #404040;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    font-size: 50px;
+    line-height: normal;
+    letter-spacing: normal;
 }
 
 .logo img{
@@ -51,7 +65,7 @@ header{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url("./assets/foto itb hehe 2.jpg") no-repeat;;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url("./assets/foto itb hehe.jpg") no-repeat;;
     background-size: cover;
     background-position: bottom;
     background-attachment: fixed;
