@@ -8,6 +8,7 @@
     --primary-white: #FFFFFF;
     --primary-blue: #24306E;
     --secondary-blue: #E2EBEB;
+    --tertiary-blue: #2C2753;
     --primary-gray: #404040;
     --secondary-grey : #616161;
 }
@@ -86,7 +87,9 @@ header{
     font-size: 0.8em;
     cursor: pointer;
 }
-
+.btn-blue:hover{
+    background-color: var(--tertiary-blue);
+}
 
 #footer{
     margin: 0px;

@@ -6,7 +6,9 @@
 }
 :root{
     --primary-white: #FFFFFF;
-    --primary-blue: #24306E
+    --secondary-white: #F6F6F6;
+    --primary-blue: #24306E;
+    --secondary-blue : #2C2753;
 }
 html{
     scroll-behavior: smooth;
@@ -78,6 +80,7 @@ header{
 }
 
 .btn-blue{
+    text-decoration: none;
     width: fit-content;
     padding: 10px 20px;
     background-color: var(--primary-blue);
@@ -86,7 +89,11 @@ header{
     font-size: 0.8em;
     cursor: pointer;
 }
+.btn-blue:hover{
+    background-color: var(--secondary-blue);
+}
 .btn-white{
+    text-decoration: none;
     width: fit-content;
     padding: 10px 20px;
     color: var(--primary-blue);
@@ -94,6 +101,9 @@ header{
     border-radius: 30px;
     font-size: 0.8em;
     cursor: pointer;
+}
+.btn-white:hover{
+    background-color: var(--secondary-white);
 }
 .content{
     padding: 30px;
