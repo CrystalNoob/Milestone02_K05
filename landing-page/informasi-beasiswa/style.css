@@ -77,8 +77,31 @@ header{
     text-align: center;
     margin-bottom: 10px;
 }
+.box h4{
+    color: #404040;
+    font-size: 1.4em;
+    font-weight: 500;
+    text-align: left;
+    margin-bottom: 10px;
+}
 .box p{
     margin-bottom: 30px;
+    color: var(--secondary-grey);
+    font-size: 1.3em;
+    font-weight: 400;
+    text-align: justify;
+}
+.box ol{
+    margin-bottom: 30px;
+    margin-left: 1.3em;
+    color: var(--secondary-grey);
+    font-size: 1.3em;
+    font-weight: 400;
+    text-align: justify;
+}
+.box ul{
+    margin-bottom: 30px;
+    margin-left: 1.3em;
     color: var(--secondary-grey);
     font-size: 1.3em;
     font-weight: 400;
