@@ -1,25 +1,32 @@
-*,html,body{
+*,
+html,
+body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;;
+    font-family: 'Poppins', sans-serif;
+    ;
 }
-:root{
+
+:root {
     --primary-white: #FFFFFF;
     --primary-blue: #24306E;
     --secondary-blue: #E2EBEB;
     --tertiary-blue: #2C2753;
     --primary-gray: #404040;
-    --secondary-grey : #616161;
+    --secondary-grey: #616161;
 }
-html{
+
+html {
     scroll-behavior: smooth;
 }
-body{
+
+body {
     width: auto;
     min-height: 100vh;
 }
-header{
+
+header {
     color: var(--primary-white);
     display: flex;
     justify-content: center;
@@ -29,27 +36,29 @@ header{
     line-height: 28.645px;
     letter-spacing: -0.64px;
 }
-.logo img{
+
+.logo img {
     width: 150px;
 }
 
-#welcome{
+#welcome {
     display: flex;
     align-items: center;
     width: 100%;
     background: var(--primary-blue);
 }
 
-#welcome .title{
+#welcome .title {
     padding: 20px;
 }
-#title-informasi-beasiswa{
+
+#title-informasi-beasiswa {
     padding: 30px;
     color: var(--primary-gray);
     font-size: 1.5em;
 }
 
-.box{
+.box {
     margin: 20px 50px;
     padding: 30px;
     display: flex;
@@ -57,57 +66,51 @@ header{
     flex-direction: column;
     align-items: center;
 }
-.box .text{
+
+.box .text {
     display: flex;
     justify-content: center;
     padding: 0 20px;
     display: flex;
     flex-direction: column;
 }
-.box img{
+
+.box img {
     max-width: 50%;
     height: auto;
     object-fit: cover;
     margin-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
-.box h3{
+
+.box h3 {
     color: #404040;
     font-size: 1.8em;
     font-weight: 500;
     text-align: center;
     margin-bottom: 10px;
 }
-.box h4{
-    color: #404040;
-    font-size: 1.4em;
-    font-weight: 500;
-    text-align: left;
-    margin-bottom: 10px;
-}
-.box p{
-    margin-bottom: 30px;
+
+.box p {
+    margin-top: 30px;
     color: var(--secondary-grey);
     font-size: 1.3em;
     font-weight: 400;
     text-align: justify;
 }
-.box ol{
+
+.box ol {
     margin-bottom: 30px;
-    margin-left: 1.3em;
     color: var(--secondary-grey);
     font-size: 1.3em;
     font-weight: 400;
     text-align: justify;
+    padding-left: 2rem;
 }
-.box ul{
-    margin-bottom: 30px;
-    margin-left: 1.3em;
-    color: var(--secondary-grey);
-    font-size: 1.3em;
-    font-weight: 400;
-    text-align: justify;
-}
-.btn-blue{
+
+.btn-blue {
     text-decoration: none;
     width: 450px;
     padding: 10px 20px;
@@ -120,16 +123,18 @@ header{
     cursor: pointer;
     margin: auto;
 }
-.btn-blue:hover{
+
+.btn-blue:hover {
     background-color: var(--tertiary-blue);
 }
 
-#footer{
+#footer {
     margin: 0px;
     padding: 0px;
 }
-#footer img{
-    display: block; 
+
+#footer img {
+    display: block;
     margin: 0;
     padding: 0;
     filter: brightness(50%);
