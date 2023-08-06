@@ -84,6 +84,14 @@ header{
     font-weight: 400;
     text-align: justify;
 }
+.box ol{
+    margin-bottom: 30px;
+    margin-left: 1.3em;
+    color: var(--secondary-grey);
+    font-size: 1.3em;
+    font-weight: 400;
+    text-align: justify;
+}
 .btn-blue{
     text-decoration: none;
     width: 450px;
