@@ -85,6 +85,7 @@ header{
     text-align: justify;
 }
 .btn-blue{
+    text-decoration: none;
     width: 450px;
     padding: 10px 20px;
     background-color: var(--primary-blue);
