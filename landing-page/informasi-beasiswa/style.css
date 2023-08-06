@@ -1,0 +1,114 @@
+*,html,body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;;
+}
+:root{
+    --primary-white: #FFFFFF;
+    --primary-blue: #24306E;
+    --secondary-blue: #E2EBEB;
+    --tertiary-blue: #2C2753;
+    --primary-gray: #404040;
+    --secondary-grey : #616161;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    width: auto;
+    min-height: 100vh;
+}
+header{
+    color: var(--primary-white);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2em;
+    font-weight: 700;
+    line-height: 28.645px;
+    letter-spacing: -0.64px;
+}
+.logo img{
+    width: 150px;
+}
+
+#welcome{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    background: var(--primary-blue);
+}
+
+#welcome .title{
+    padding: 20px;
+}
+#title-informasi-beasiswa{
+    padding: 30px;
+    color: var(--primary-gray);
+    font-size: 1.5em;
+}
+
+.box{
+    margin: 20px 50px;
+    padding: 30px;
+    display: flex;
+    background-color: var(--secondary-blue);
+    flex-direction: column;
+}
+.box .text{
+    display: flex;
+    justify-content: center;
+    padding: 0 20px;
+    display: flex;
+    flex-direction: column;
+}
+.box img{
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+.box h3{
+    color: #404040;
+    font-size: 1.8em;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.box p{
+    margin-bottom: 30px;
+    color: var(--secondary-grey);
+    font-size: 1.3em;
+    font-weight: 400;
+    text-align: justify;
+}
+.btn-blue{
+    width: 450px;
+    padding: 10px 20px;
+    background-color: #0171bb;
+    color: var(--primary-white);
+    border-radius: 100px;
+    font-size: 1.8em;
+    text-align: center;
+    letter-spacing: 1px;
+    cursor: pointer;
+    margin: auto;
+}
+.btn-blue:hover{
+    background-color: var(--tertiary-blue);
+}
+
+#footer{
+    margin: 0px;
+    padding: 0px;
+}
+#footer img{
+    display: block; 
+    margin: 0;
+    padding: 0;
+    filter: brightness(50%);
+    object-fit: cover;
+    width: 100%;
+    height: 150px;
+}
