@@ -27,3 +27,14 @@
 
 ## Spesifikasi Website
 Membuat website terpusat yang up-to-date dan dikategorisasikan untuk beasiswa. Harapannya website ini mempermudah pencarian beasiswa bagi mahasiswa.
+
+## Cara Menggunakan Website
+
+### Homepage
+Ketika memasuki website SchoolSeek, maka user akan melihat halaman home page untuk pertama kalinya, di sana user dapat memilih berbagai fitur seperti home, scholarship dan about us. Di sini user dapat langsung mengeklik scholarship page untuk memperoleh list beasiswa yang disediakan oleh website ini.
+
+### Scholarship Page (List Beasiswa)
+Setelah masuk ke halaman ini, user dapat melihat beasiswa-beasiswa yang sedang membuka pendaftaran untuk saat ini. Pada halaman ini terdapat penjelasan umum mengenai beasiswa-beasiswa yang ada dan waktu pendaftaran beasiswanya. User dapat mengeklik 'Apply Now' untuk melihat info lebih lanjut mengenai beasiswa yang diinginkan.
+
+### Informasi Beasiswa
+Setelah masuk ke halaman ini, user dapat melihat informasi umum, syarat-syarat dan benefit dari beasiswa yang sebelumnya diklik. Terdapat juga link terkait beasiswa tersebut.
