@@ -48,12 +48,16 @@ Setelah masuk ke halaman ini, user dapat melihat informasi umum, syarat-syarat d
 
 ## Identitas Pembuat Beserta Kontribusinya
 1. Derwin Rustanly / 19622212 : Membuat design homepage, mengatur github kelompok, merapihkan design page list-beasiswa
-2. Christian Justin Hendrawan / 19622266 : Membuat design figma, mengatur pembagian tugas kelompok, melengkapi list-beasiswa dengan deskripsi beasiswa dan gambar beasiswa
+2. Christian Justin Hendrawan / 19622266 : Membuat design figma, mengatur pembagian tugas kelompok, research beasiswa, melengkapi list-beasiswa dengan deskripsi beasiswa dan gambar beasiswa
 3. Andhika Tantyo Anugrah / 19622122 : Melakukan design page list-beasiswa serta melakukan perbaikan-perbaikan kecil
 4. Maria Flora Renata Siringoringo / 19622176 : Membuat dan mengerjakan design template untuk page informasi-beasiswa 
 5. M Athaullah Daffa Kusuma Mulia / 19622065 : Mengerjakan design dan menambahkan deskripsi serta gambar beasiswa Paragon
-6. M. Rivaldi Mahari (Djarum) : Mengerjakan dan menambahkan deskripsi serta gambar Djarum Beasiswa One Plus
-7. Naufal Adnan / 19622076 : 
-8. Dahayu Ramania Aurasindu / 19622115 : (BSI scholarship)
-9. Andi Marihot Sitorus / 19622287 : ( Jaya Obayashi )
-10. Devinzen / 19622095 : ( Ikatan alumni kimia)
+6. M. Rivaldi Mahari : Mengerjakan dan menambahkan deskripsi serta gambar Djarum Beasiswa One Plus
+7. Naufal Adnan / 19622076 : Mengerjakan dan menambahkan deskripsi serta gambar Beasiswa Bank Indonesia
+8. Dahayu Ramania Aurasindu / 19622115 :  Mengerjakan dan menambahkan deskripsi serta gambar Beasiswa BSI 
+9. Andi Marihot Sitorus / 19622287 : Mengerjakan dan menambahkan deskripsi serta gambar Beasiswa Ikatan Alumni Kimia ITB
+10. Devinzen / 19622095 : Mengerjakan dan menambahkan deskripsi serta gambar Beasiswa Jaya Obayashi
+11. Fadian Alif Mahardika / 19622251 : Mengerjakan README bagian Identitas Pembuat beserta kontribusinya
+12. Yusril Fazri Mahendra / 19622248 : Mengerjakan README bagian deskripsi permasalahan singkat beserta solusinya
+13. Risma Rif’atissania / 19622206 : Mengerjakan README bagian cara menggunakan program
+14. Mario Hermawan Setiadi / 19622195 : Menghilang dari milestone 1
