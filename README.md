@@ -29,6 +29,12 @@
 ## Spesifikasi Website
 Membuat website terpusat yang up-to-date dan dikategorisasikan untuk beasiswa. Harapannya website ini mempermudah pencarian beasiswa bagi mahasiswa.
 
+## Deskripsi Masalah
+Permasalahan biaya Pendidikan sering kali dirasakan oleh kebanyakan mahasiswa. selain itu, keterbatasan akses informasi beasiswa dan jumlah penerima beasiswa yang masih minim serta kurangnya kemudahan dalam mencari informasi beasiswa yang cocok baginya menjadi faktor-faktor yang menyebabkan banyaknya mahasiswa kesulitan dalam mencari beasiswa yang Pendidikan. Padahal beasiswa merupakan salah satu alat yang penting dalam mendukung akses pendidikan yang lebih luas dan memberikan kesempatan bagi individu untuk mencapai potensi penuh mereka tanpa terhalang oleh keterbatasan finansial. 
+
+## Solusi
+Berdasarkan permasalahan tersebut kami membuat sebuah inovasi berupa web yang memuat segala informasi yang dapat memudahkan dalam pencarian beasiswa. Di web tersebut memuat data berupa instansi/perusahaan yang memberikan beasiswa, persyaratan, dan detail tentang beasiswa yang didapat. Hal tersebut akan memudahkan para mahasiswa yang memerlukan biaya Pendidikan karena keterbatasan finansial.
+
 ## Cara Menggunakan Website
 
 ### Homepage
