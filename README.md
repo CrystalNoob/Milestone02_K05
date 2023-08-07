@@ -24,6 +24,43 @@
 
 ## Table of Contents
 * [Spesifikasi Website](#spesifikasi-website)
+* [Deskripsi Masalah](#deskripsi-masalah)
+* [Solusi](#solusi)
+* [Cara Menggunakan Website](#cara-menggunakan-website)
+* [Identitas Pembuat Beserta Kontribusinya](#identitas-pembuat-beserta-kontribusinya)
 
 ## Spesifikasi Website
 Membuat website terpusat yang up-to-date dan dikategorisasikan untuk beasiswa. Harapannya website ini mempermudah pencarian beasiswa bagi mahasiswa.
+
+## Deskripsi Masalah
+Permasalahan biaya Pendidikan sering kali dirasakan oleh kebanyakan mahasiswa. selain itu, keterbatasan akses informasi beasiswa dan jumlah penerima beasiswa yang masih minim serta kurangnya kemudahan dalam mencari informasi beasiswa yang cocok baginya menjadi faktor-faktor yang menyebabkan banyaknya mahasiswa kesulitan dalam mencari beasiswa yang Pendidikan. Padahal beasiswa merupakan salah satu alat yang penting dalam mendukung akses pendidikan yang lebih luas dan memberikan kesempatan bagi individu untuk mencapai potensi penuh mereka tanpa terhalang oleh keterbatasan finansial. 
+
+## Solusi
+Berdasarkan permasalahan tersebut kami membuat sebuah inovasi berupa web yang memuat segala informasi yang dapat memudahkan dalam pencarian beasiswa. Di web tersebut memuat data berupa instansi/perusahaan yang memberikan beasiswa, persyaratan, dan detail tentang beasiswa yang didapat. Hal tersebut akan memudahkan para mahasiswa yang memerlukan biaya Pendidikan karena keterbatasan finansial.
+
+## Cara Menggunakan Website
+
+### Homepage
+Ketika memasuki website SchoolSeek, maka user akan melihat halaman home page untuk pertama kalinya, di sana user dapat memilih berbagai fitur seperti home, scholarship dan about us. Di sini user dapat langsung mengeklik scholarship page untuk memperoleh list beasiswa yang disediakan oleh website ini.
+
+### Scholarship Page (List Beasiswa)
+Setelah masuk ke halaman ini, user dapat melihat beasiswa-beasiswa yang sedang membuka pendaftaran untuk saat ini. Pada halaman ini terdapat penjelasan umum mengenai beasiswa-beasiswa yang ada dan waktu pendaftaran beasiswanya. User dapat mengeklik 'Apply Now' untuk melihat info lebih lanjut mengenai beasiswa yang diinginkan.
+
+### Informasi Beasiswa
+Setelah masuk ke halaman ini, user dapat melihat informasi umum, syarat-syarat dan benefit dari beasiswa yang sebelumnya diklik. Terdapat juga link terkait beasiswa tersebut.
+
+## Identitas Pembuat Beserta Kontribusinya
+1. Derwin Rustanly / 19622212 : Membuat design homepage, mengatur github kelompok, merapihkan design page list-beasiswa
+2. Christian Justin Hendrawan / 19622266 : Membuat design figma, mengatur pembagian tugas kelompok, research beasiswa, melengkapi list-beasiswa dengan deskripsi beasiswa dan gambar beasiswa
+3. Andhika Tantyo Anugrah / 19622122 : Melakukan design page list-beasiswa, research beasiswa, serta melakukan perbaikan-perbaikan kecil
+4. Maria Flora Renata Siringoringo / 19622176 : Membuat dan mengerjakan design template untuk page informasi-beasiswa 
+5. M Athaullah Daffa Kusuma Mulia / 19622065 : Mengerjakan design dan menambahkan deskripsi serta gambar beasiswa Paragon
+6. M. Rivaldi Mahari : Mengerjakan dan menambahkan deskripsi serta gambar Djarum Beasiswa One Plus
+7. Naufal Adnan / 19622076 : Mengerjakan dan menambahkan deskripsi serta gambar Beasiswa Bank Indonesia
+8. Dahayu Ramania Aurasindu / 19622115 :  Mengerjakan dan menambahkan deskripsi serta gambar Beasiswa BSI 
+9. Andi Marihot Sitorus / 19622287 : Mengerjakan dan menambahkan deskripsi serta gambar Beasiswa Ikatan Alumni Kimia ITB
+10. Devinzen / 19622095 : Mengerjakan dan menambahkan deskripsi serta gambar Beasiswa Jaya Obayashi
+11. Fadian Alif Mahardika / 19622251 : Mengerjakan README bagian Identitas Pembuat beserta kontribusinya
+12. Yusril Fazri Mahendra / 19622248 : Mengerjakan README bagian deskripsi permasalahan singkat beserta solusinya
+13. Risma Rif’atissania / 19622206 : Mengerjakan README bagian cara menggunakan program
+14. Mario Hermawan Setiadi / 19622195 : Menghilang dari milestone 1
