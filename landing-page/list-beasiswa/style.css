@@ -79,6 +79,7 @@ header{
     font-weight: 400;
 }
 .btn-blue{
+    text-decoration: none;
     width: fit-content;
     padding: 10px 20px;
     background-color: var(--primary-blue);
