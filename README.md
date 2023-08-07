@@ -24,7 +24,10 @@
 
 ## Table of Contents
 * [Spesifikasi Website](#spesifikasi-website)
+* [Deskripsi Masalah](#deskripsi-masalah)
+* [Solusi](#solusi)
 * [Cara Menggunakan Website](#cara-menggunakan-website)
+* [Identitas Pembuat Beserta Kontribusinya](#identitas-pembuat-beserta-kontribusinya)
 
 ## Spesifikasi Website
 Membuat website terpusat yang up-to-date dan dikategorisasikan untuk beasiswa. Harapannya website ini mempermudah pencarian beasiswa bagi mahasiswa.
@@ -49,7 +52,7 @@ Setelah masuk ke halaman ini, user dapat melihat informasi umum, syarat-syarat d
 ## Identitas Pembuat Beserta Kontribusinya
 1. Derwin Rustanly / 19622212 : Membuat design homepage, mengatur github kelompok, merapihkan design page list-beasiswa
 2. Christian Justin Hendrawan / 19622266 : Membuat design figma, mengatur pembagian tugas kelompok, research beasiswa, melengkapi list-beasiswa dengan deskripsi beasiswa dan gambar beasiswa
-3. Andhika Tantyo Anugrah / 19622122 : Melakukan design page list-beasiswa serta melakukan perbaikan-perbaikan kecil
+3. Andhika Tantyo Anugrah / 19622122 : Melakukan design page list-beasiswa, research beasiswa, serta melakukan perbaikan-perbaikan kecil
 4. Maria Flora Renata Siringoringo / 19622176 : Membuat dan mengerjakan design template untuk page informasi-beasiswa 
 5. M Athaullah Daffa Kusuma Mulia / 19622065 : Mengerjakan design dan menambahkan deskripsi serta gambar beasiswa Paragon
 6. M. Rivaldi Mahari : Mengerjakan dan menambahkan deskripsi serta gambar Djarum Beasiswa One Plus
