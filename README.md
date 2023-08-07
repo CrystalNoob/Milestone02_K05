@@ -24,6 +24,7 @@
 
 ## Table of Contents
 * [Spesifikasi Website](#spesifikasi-website)
+* [Cara Menggunakan Website](#cara-menggunakan-website)
 
 ## Spesifikasi Website
 Membuat website terpusat yang up-to-date dan dikategorisasikan untuk beasiswa. Harapannya website ini mempermudah pencarian beasiswa bagi mahasiswa.
