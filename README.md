@@ -45,3 +45,15 @@ Setelah masuk ke halaman ini, user dapat melihat beasiswa-beasiswa yang sedang m
 
 ### Informasi Beasiswa
 Setelah masuk ke halaman ini, user dapat melihat informasi umum, syarat-syarat dan benefit dari beasiswa yang sebelumnya diklik. Terdapat juga link terkait beasiswa tersebut.
+
+## Identitas Pembuat Beserta Kontribusinya
+1. Derwin Rustanly / 19622212 : Membuat design homepage, mengatur github kelompok, merapihkan design page list-beasiswa
+2. Christian Justin Hendrawan / 19622266 : Membuat design figma, mengatur pembagian tugas kelompok, melengkapi list-beasiswa dengan deskripsi beasiswa dan gambar beasiswa
+3. Andhika Tantyo Anugrah / 19622122 : Melakukan design page list-beasiswa serta melakukan perbaikan-perbaikan kecil
+4. Maria Flora Renata Siringoringo / 19622176 : Membuat dan mengerjakan design template untuk page informasi-beasiswa 
+5. M Athaullah Daffa Kusuma Mulia / 19622065 : Mengerjakan design dan menambahkan deskripsi serta gambar beasiswa Paragon
+6. M. Rivaldi Mahari (Djarum) : Mengerjakan dan menambahkan deskripsi serta gambar Djarum Beasiswa One Plus
+7. Naufal Adnan / 19622076 : 
+8. Dahayu Ramania Aurasindu / 19622115 : (BSI scholarship)
+9. Andi Marihot Sitorus / 19622287 : ( Jaya Obayashi )
+10. Devinzen / 19622095 : ( Ikatan alumni kimia)
